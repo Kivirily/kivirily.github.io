@@ -1,0 +1,233 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kivirily.github.io" resolutions="1x" timestamp="1527842816116">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="264304908" ref="index:concept:video:twitch-banner-(graphic)"/>
+    <file name="nomq_preview_master_a-master.css" crc="94874592" ref="index:concept:video:twitch-banner-(graphic)"/>
+    <file name="index.css" crc="3925134258" ref="index"/>
+    <file name="nomq_index.css" crc="212880245" ref="index"/>
+    <file name="concept.css" crc="4099512881" ref="concept"/>
+    <file name="nomq_concept.css" crc="3828261693" ref="concept"/>
+    <file name="video.css" crc="285485968" ref="video"/>
+    <file name="nomq_video.css" crc="4118436019" ref="video"/>
+    <file name="twitch-banner-_graphic_.css" crc="3773938666" ref="twitch-banner-(graphic)"/>
+    <file name="nomq_twitch-banner-_graphic_.css" crc="224713398" ref="twitch-banner-(graphic)"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="museutils.js" crc="4216313831" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="whatinput.js" crc="86476730" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="museconfig.js" crc="474374037" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="webpro.js" crc="4143865194" ref="index:twitch-banner-(graphic):concept"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:twitch-banner-(graphic):concept"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:twitch-banner-(graphic):concept"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:twitch-banner-(graphic):concept"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="require.js" crc="3951022091" ref="index:twitch-banner-(graphic):video:concept"/>
+  </folder>
+  <folder name="images">
+    <file name="kiviri2 thicc bg.png" crc="154920788" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="twitter.svg" crc="3957614236" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="twitter_poster_.png" crc="4112623297" ref="index"/>
+    <file name="facebook-letter-logo.svg" crc="4063079061" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="facebook-letter-logo_poster_.png" crc="508407847" ref="index"/>
+    <file name="youtube.svg" crc="3870816256" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="youtube_poster_.png" crc="175360513" ref="index"/>
+    <file name="glitch_black-rgb.svg" crc="169486738" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="glitch_black rgb_poster_.png" crc="3851156416" ref="index"/>
+    <file name="u3052-4.png" crc="433169072" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="u3058-4.png" crc="3802749877" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="titlescreen twitch link.jpg" crc="212869497" seo="true" ref="index:twitch-banner-(graphic)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="kiviri blank sot.jpg" crc="4018439891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mkt banner2.jpg" crc="3803763696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neuxe banner 1080.png" crc="4094588198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlescreen twitch link800x451.jpg" crc="196608564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kiviri blank sot800x450.jpg" crc="73039563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:twitch-banner-(graphic):concept"/>
+    <file name="kiviri2 mix white.png" crc="3870223891" seo="true" ref="index:twitch-banner-(graphic):video:concept">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="u2839-4.png" crc="273856273" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="u2845-4.png" crc="62711146" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="u2912-4.png" crc="468818496" ref="index:twitch-banner-(graphic):video:concept"/>
+    <file name="kiviri blank sot916x516.jpg" crc="217752573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlescreen twitch link445x251.jpg" crc="3793543215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kiviri blank sot445x251.jpg" crc="3827312936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mkt banner2445x251.jpg" crc="3900943611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neuxe banner 1080445x251.png" crc="60673925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlescreen blank.jpg" crc="3978901668" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen brb.jpg" crc="507739025" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="offline.jpg" crc="116221842" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri blank.jpg" crc="355244473" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri lockscreen.jpg" crc="3926965587" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen blank735x414.jpg" crc="3857445335" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen brb735x414.jpg" crc="3912036840" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="offline735x414.jpg" crc="518659812" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri blank735x414.jpg" crc="3854573655" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen twitch link735x414.jpg" crc="3826865857" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri lockscreen735x414.jpg" crc="3809245529" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen blank299x169.jpg" crc="4166599547" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen brb299x169.jpg" crc="26521825" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="offline299x169.jpg" crc="354597970" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri blank299x169.jpg" crc="165472764" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="titlescreen twitch link299x169.jpg" crc="4233085531" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="kiviri lockscreen299x169.jpg" crc="315741866" seo="true" ref="twitch-banner-(graphic)">
+      <caption webpage="twitch-banner-(graphic)" alt=""/>
+    </file>
+    <file name="abstract aqua2.png" crc="36002107" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="blurry colors with noise3.jpg" crc="3938335360" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="gradient city skyline.png" crc="4244245896" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="white with color splash2.jpg" crc="84736981" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="abstract aqua2807x454.png" crc="291581754" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="blurry colors with noise3807x454.jpg" crc="193254660" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="gradient city skyline807x454.png" crc="158307359" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+    <file name="white with color splash2807x454.jpg" crc="3949998291" seo="true" ref="concept">
+      <caption webpage="concept" alt=""/>
+      <caption webpage="concept" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="477048526" seo="true" mt="1527842810573" redirect="true"/>
+  <file name="twitch-banner-(graphic).html" crc="4253394950" seo="true" mt="1527842811953" redirect="true"/>
+  <file name="video.html" crc="438524168" seo="true" mt="1527842813311" redirect="true"/>
+  <file name="concept.html" crc="4189096029" seo="true" mt="1527842813993" redirect="true"/>
+</manifest>
