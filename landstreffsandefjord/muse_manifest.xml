@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="landstreffsandefjord.no" resolutions="1x" timestamp="1557474055108">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="327017044" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lsf logo full white.png" crc="305317297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u262-6.png" crc="27437320" ref="index"/>
+    <file name="u279-6.png" crc="4237290705" ref="index"/>
+    <file name="u403-6.png" crc="3901104948" ref="index"/>
+    <file name="59750345_582021075621856_5616777467420213248_n-crop-u421.jpg" crc="44291494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60000608_2289603777949515_4116675558501253120_n-crop-u433.jpg" crc="3765167916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="59926982_387868828486826_5372426448554426368_n-crop-u424.jpg" crc="81675423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60040753_321578551851901_3073072890111852544_n-crop-u436.jpg" crc="4047645277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="59956335_676732162784749_8973272002399830016_n-crop-u427.jpg" crc="438330946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="60150302_387347118782831_9104665024898531328_n.jpg" crc="463499995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="39234715_10156160962643937_4147140298402693120_o.jpg" crc="3979267366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u705-4.png" crc="358543158" ref="index"/>
+  </folder>
+  <file name="index.html" crc="96773760" seo="true" mt="1557474023565" redirect="true"/>
+</manifest>

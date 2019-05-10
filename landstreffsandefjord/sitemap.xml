@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://landstreffsandefjord.no/index.html</loc>
+    <lastmod>2019-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/lsf%20logo%20full%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/59750345_582021075621856_5616777467420213248_n-crop-u421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/60000608_2289603777949515_4116675558501253120_n-crop-u433.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/59926982_387868828486826_5372426448554426368_n-crop-u424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/60040753_321578551851901_3073072890111852544_n-crop-u436.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/59956335_676732162784749_8973272002399830016_n-crop-u427.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/60150302_387347118782831_9104665024898531328_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://landstreffsandefjord.no/images/39234715_10156160962643937_4147140298402693120_o.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
